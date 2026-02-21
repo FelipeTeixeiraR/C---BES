@@ -13,7 +13,7 @@ int main(){
      case '+':
         rt = n1 + n2;
             break;
-        case '-':   
+        case '-':       
             rt = n1 - n2;
             break;
         case '/':
